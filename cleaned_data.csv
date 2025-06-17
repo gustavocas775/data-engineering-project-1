@@ -1,6 +1,6 @@
-id,num,num_2,nombre_completo,edad,ciudad
-1,1,1,Juan Perez,25.0,Lima
-2,2,2,Maria Garcia,30.0,Bogota
-4,4,4,Ana Martinez,40.0,Lima
-5,5,5,Pedro Sanchez,35.0,Santiago
-6,6,6,Juan Lopez,20.0,Arequipa
+id,num,num_2,num_3,nombre_completo,edad,ciudad
+1,1,1,1,Juan Perez,25.0,Lima
+2,2,2,2,Maria Garcia,30.0,Bogota
+4,4,4,4,Ana Martinez,40.0,Lima
+5,5,5,5,Pedro Sanchez,35.0,Santiago
+6,6,6,6,Juan Lopez,20.0,Arequipa
