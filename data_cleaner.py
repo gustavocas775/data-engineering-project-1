@@ -11,10 +11,10 @@ def clean_data(filepath):
 if __name__ == "__main__":
     # Crear un archivo de datos dummy para el ejemplo
     dummy_data = {
-        'ID': [1, 2, 3, 4, 5],
-        'Nombre Completo': ['Juan Perez', 'Maria Garcia', 'Carlos Lopez', 'Ana Martinez', 'Pedro Sanchez'],
-        'Edad': [25, 30, None, 40, 35],
-        'Ciudad': ['Lima', 'Bogota', 'Quito', 'Lima', 'Santiago']
+        'ID': [1, 2, 3, 4, 5, 6],
+        'Nombre Completo': ['Juan Perez', 'Maria Garcia', 'Carlos Lopez', 'Ana Martinez', 'Pedro Sanchez', 'Juan Lopez'],
+        'Edad': [25, 30, None, 40, 35, 20],
+        'Ciudad': ['Lima', 'Bogota', 'Quito', 'Lima', 'Santiago', 'Arequipa']
     }
     pd.DataFrame(dummy_data).to_csv('raw_data.csv', index=False)
 
