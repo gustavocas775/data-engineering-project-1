@@ -1,7 +1,7 @@
-ID,Nombre Completo,Edad,Ciudad
-1,Juan Perez,25.0,Lima
-2,Maria Garcia,30.0,Bogota
-3,Carlos Lopez,,Quito
-4,Ana Martinez,40.0,Lima
-5,Pedro Sanchez,35.0,Santiago
-6,Juan Lopez,20.0,Arequipa
+ID,NUM,Nombre Completo,Edad,Ciudad
+1,1,Juan Perez,25.0,Lima
+2,2,Maria Garcia,30.0,Bogota
+3,3,Carlos Lopez,,Quito
+4,4,Ana Martinez,40.0,Lima
+5,5,Pedro Sanchez,35.0,Santiago
+6,6,Juan Lopez,20.0,Arequipa
