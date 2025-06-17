@@ -5,7 +5,6 @@ __pycache__/
 venv/
 
 # Ignorar archivos generados de datos (si no quieres versionarlos)
-*.csv
 *.parquet
 *.txt
 
