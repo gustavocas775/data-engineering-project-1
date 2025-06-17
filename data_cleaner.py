@@ -13,6 +13,7 @@ if __name__ == "__main__":
     dummy_data = {
         'ID': [1, 2, 3, 4, 5, 6],
         'NUM': [1, 2, 3, 4, 5, 6],
+        'NUM_2': [1, 2, 3, 4, 5, 6],
         'Nombre Completo': ['Juan Perez', 'Maria Garcia', 'Carlos Lopez', 'Ana Martinez', 'Pedro Sanchez', 'Juan Lopez'],
         'Edad': [25, 30, None, 40, 35, 20],
         'Ciudad': ['Lima', 'Bogota', 'Quito', 'Lima', 'Santiago', 'Arequipa']
