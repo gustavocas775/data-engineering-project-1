@@ -1,0 +1,22 @@
+# Ignorar archivos específicos de Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Ignorar archivos generados de datos (si no quieres versionarlos)
+*.csv
+*.parquet
+*.txt
+
+# Ignorar directorios de datos grandes o temporales
+/data/
+/output/
+
+# Ignorar archivos de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de credenciales o sensibles
+*.env
+credentials.json
